@@ -1,0 +1,15 @@
+html {
+    font-size: 100%;
+}
+
+div {
+    font-size: 1rem;
+}
+
+.intro, .sidebar {
+    width: 25rem;
+    height: 18.75rem;
+    border: 1px solid black;
+    padding: 2rem;
+
+}
