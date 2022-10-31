@@ -1,11 +1,12 @@
 section, .intro {
-    color: #ffc700;
-    background-color: #18354a;
     font-size: 1.125rem;
+    color: #ffc700;
+    max-width: 56.25rem;
+    padding: 3rem;
+    background-color: #18354a;
+    border: 1px solid lightgray;
     margin: 2rem auto;
     text-align: center;
-    padding: 3rem;
-    border: 1px solid lightgray;
-    max-width: 56.25rem;
+    
     height: max-content;
 }
